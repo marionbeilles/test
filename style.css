@@ -28,9 +28,14 @@ ul {
     text-align: center;
     font-family: 'Quicksand', sans-serif;
     list-style-type: none;
+    padding: 0;
 }
 body {
     background-image: url(kaylanewell.jpg);
     background-size: cover;
+}
+
+p {
+   
 }
 
