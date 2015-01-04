@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+	    <meta charset="UTF-8">
+	    <title>Document</title>
+	    <link rel="stylesheet" href="style.css">          
+		<link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+	</head>
+	
+	<body>
+		
+		
+		<header>
+			<div id="wrapper" class="pasdefondblanc">
+				<h1><img src="images/parcours2.png" height="50">MARION BEILLES</h1>
+			</div>
+			<div id="wrapper">
+				<nav>
+			         <a href="index.html">Accueil</a>
+			         <a href="cv.html">Curriculum Vitae</a>
+			         <a href="contact.html">Contact</a>
+				 </nav>
+			</div>
+		</header>
+		
+		
+		<main>
+			<div id="wrapper">
+				
+				<div id="col" class="image">
+					<img src="images/photodemoi.jpg">
+				</div>
+				
+				<div id="col" class="txt">
+					<p>Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec ullamcorper nulla non metus auctor fringilla.</p>
+				
+					<p>Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo. Nulla vitae elit libero, a pharetra augue. Maecenas sed diam eget risus varius blandit sit amet non magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+					<p class="center">
+						<a href="cv.html">Voir mon CV</a>
+					</p>
+				
+				</div>
+			</div>
+		</main>
+		
+		
+		<footer>
+			<div id="wrapper">
+				<p>Copyright © Marion Beilles</p>
+			</div>
+		</footer>
+		
+	</body>
+</html>
