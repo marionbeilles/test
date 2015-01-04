@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+	    <meta charset="UTF-8">
+	    <title>Document</title>
+	    <link rel="stylesheet" href="style.css">          
+		<link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+	</head>
+	
+	<body>
+		
+		
+		<header>
+			<div id="wrapper" class="pasdefondblanc">
+				<h1><img src="images/parcours2.png" height="50">MARION BEILLES</h1>
+			</div>
+			<div id="wrapper">
+				<nav>
+			         <a href="index.html">Accueil</a>
+			         <a href="cv.html">Curriculum Vitae</a>
+			         <a href="contact.html">Contact</a>
+				 </nav>
+			</div>
+		</header>
+	 
+		<main>
+			<div id="wrapper">
+				<h1><span>Parcours</span></h1>
+				<ul>
+					<li>2014/2015 École de Communication CESACOM, Paris.</li>
+					<li>2013/2014 MANAA Mise à niveau en arts appliqués École de Condé, Paris.  </li>
+					<li>2012/2013 Baccalauréat ES Option Sciences-Politiques Lycée Pierre Bourdieu, Fronton.</li>
+				</ul>
+				
+				<h1><span>Expériences Professionelles</span></h1>
+				<ul>
+					<li> Septembre 2014 Cofrad Mannequins, Secrétaire d'acceuil.</li>
+					<li> Juillet/Aout 2011 Intermarché Bouloc, Caissière.</li>
+					<li> Juillet/Août Stage DisneyLand Paris, Assistance à la Direction Audiovisuelle</li>
+				</ul>   
+				
+				
+				<h1><span>Compétences</span></h1>
+				<ul> 
+					<li> Commerce</li>   
+					<li>Art</li>
+					<li>Graphisme</li>
+				</ul>
+				
+				<h1><span>Expériences</span></h1>
+				<ul>
+					<li> Vente</li>
+					<li>Commerce</li>
+					<li>Photograhie / Exposition Offiche du Tourisme de Montauban en 2010/ Interview site Crack In The Road</li>
+				</ul>
+				<h1><span>Logiciels</span></h1>
+				<ul>
+					<li>Adobe Photoshop</li>
+					<li>Adobe Indesign</li>
+					<li>Gimp</li>
+					<li>Suite Microsoft Office</li>
+				</ul>
+                <h1><span>Loisirs</span></h1>
+                <ul>
+                    <li>Photographie / <a href="http://marionbeilles.tumblr.com" >Mon blog</a> </li>
+                    <li>Graphisme</li>
+                    <li>Peinture / Linogravure</li>
+                </ul>
+			</div>
+		</main>
+		
+		
+		<footer>
+			<div id="wrapper">
+				<p>Copyright © Marion Beilles</p>
+			</div>
+		</footer>
+		
+		
+	</body>
+</html>
