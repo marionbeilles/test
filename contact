@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+	    <meta charset="UTF-8">
+	    <title>Document</title>
+	    <link rel="stylesheet" href="style.css">          
+		<link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+	</head>
+	
+	<body>
+		
+		
+		<header>
+			<div id="wrapper" class="pasdefondblanc">
+				<h1><img src="images/parcours2.png" height="50">MARION BEILLES</h1>
+			</div>
+			<div id="wrapper">
+				<nav>
+			         <a href="index.html">Accueil</a>
+			         <a href="cv.html">Curriculum Vitae</a>
+			         <a href="contact.html">Contact</a>
+				 </nav>
+			</div>
+		</header>
+	 
+	 
+		<main>
+			<div id="wrapper">
+				<h1><img src="images/email.png" height="30" alt=""></h1>
+				<p class="center"><a href="mailto:marionbeilles@hotmail.fr">Email : marionbeilles@hotmail.fr</a></p>
+				<p class="center">Tel : 06.86.07.02.61</p>
+			</div>
+		</main>
+		
+		
+		<footer>
+			<div id="wrapper">
+				<p>Copyright © Marion Beilles</p>
+			</div>
+		</footer>
+		
+	</body>
+</html>
